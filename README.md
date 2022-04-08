@@ -36,3 +36,16 @@ query will need to return a table that resembles the following, including the sa
 - load the tables from the file using the sql code on createdb.sql file.
 - create the magic tool %sql and connect to the server
 - run the code in the notebook
+
+# result
+|animaltype|	size	|total	|percentage|
+| :---: | :---: | :---: | :---: |
+|Bird	|Small	|1615	|0.05|
+|Bird	|Medium	|3460	|0.10|
+|Bird	|Large	|7770	|0.22|
+|Cat	|Small	|518015	|14.90|
+|Cat	|Medium	|250575	|7.21|
+|Cat	|Large	|439490	|12.64|
+|Dog	|Small	|336530	|9.68|
+|Dog	|Medium	|941895	|27.09|
+|Dog	|Large	|977665	|28.12|
