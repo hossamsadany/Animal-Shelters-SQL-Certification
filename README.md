@@ -30,3 +30,9 @@ query will need to return a table that resembles the following, including the sa
 | bird	| large	| … |	… |
 | cat | … | … | … |
 | …	| … |	…	| … |
+
+# Running the program in your computer 
+- create the database on your server using pgadmin or any other program , code in createdb.sql file
+- load the table from the file using the sql code on createdb.sql file.
+- create the magic tool %sql and connect to the server
+- run the code in the notebook
