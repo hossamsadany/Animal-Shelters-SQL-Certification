@@ -11,3 +11,6 @@ Small	Medium	Large
 Dog	<= 10 lbs	10 lbs < and <= 30 lbs	30 lbs <
 Cat	<= 5 lbs	5 lbs < and <= 7 lbs	7 lbs <
 Bird	<= 0.7 lbs	0.7 lbs < and <= 1.1 lbs	1.1 lbs <
+| Attempt | #1 | #2 |
+| :---: | :---: | :---: |
+| Seconds | 301 | 283 |
