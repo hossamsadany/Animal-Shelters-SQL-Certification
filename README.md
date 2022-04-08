@@ -18,3 +18,4 @@ The base cost of sheltering an animal is based upon its size and type. The costs
 
 For future visualization purposes, you will also need to include a percentage column in your result. This percentage should reflect the fraction of the total cost to be allocated to each animal and size combination.
 
+Order query by animal type in alphabetical order, and then size (in order from small to large). Percentage should be expressed as a number rounded to two decimal places (e.g. 50.25% becomes 50.25). 
